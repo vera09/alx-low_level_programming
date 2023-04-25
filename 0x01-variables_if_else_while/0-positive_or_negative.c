@@ -4,7 +4,7 @@
 /**
  * main- entry to function
  * Description: check a random number if positive or negative
- * return: zero if no errors, non-zero if errors
+ * Return: zero if no errors, non-zero if errors
  */
 int main(void)
 {
