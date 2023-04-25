@@ -1,7 +1,6 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
 /**
  * main- entry to function
  * return: zero if no errors, non-zero if errors
@@ -9,6 +8,7 @@
 int main(void)
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
