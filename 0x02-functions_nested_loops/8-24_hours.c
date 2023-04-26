@@ -2,7 +2,7 @@
 
 /**
  * jack_bauer - prints every min of jack_bauer
- *    
+ *
  */
 void jack_bauer(void)
 {
