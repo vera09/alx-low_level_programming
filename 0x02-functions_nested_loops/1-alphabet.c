@@ -9,5 +9,5 @@ void print_alphabet(void)
 	{
 		_putchar(alphabet);
 	};
-	_puchar("\n");
+	_put`char("\n");
 
