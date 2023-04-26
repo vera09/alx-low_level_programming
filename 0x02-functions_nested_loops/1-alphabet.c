@@ -3,7 +3,7 @@
 
 void print_alphabet()
 {
-	char alphabet
+	char alphabet;
 	for(char alphabet = "a"; alphabet <="z"; alphabet++)
 	{
 		_putchar(alphabet);
