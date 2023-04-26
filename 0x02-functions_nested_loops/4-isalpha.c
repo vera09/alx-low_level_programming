@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - check if a variable is an alphabet 
+ * _isalpha - check if a variable is an alphabet
  * @c: the variable to be checked
  * Return: 1 if correct, zero if error
  */
@@ -10,8 +10,8 @@ int _isalpha(int c)
 	{
 		return (1);
 	}
-	else 
+	else
 	{
 		return (0);
 	}
-}	
+}
